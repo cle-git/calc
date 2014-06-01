@@ -1,4 +1,5 @@
 //Commenting for merging
+// New comment for Calculator application
 package Calculator;
 import java.util.Scanner;
 
